@@ -1,1 +1,26 @@
-# Wireshark
+Wireshark Lab:
+
+1)Start a packet capture on an ethernet port and save it to file.
+
+2)Use a display filter to detect HTTPS packets.
+
+3)Visit a web page and detect its IP address using a display filter.
+
+4)Locate all HTTPS packets from a capture not containing a certain IP address.
+
+
+Wireshark Lab: Network Security Analysis
+
+1)Using Wireshark and most of its functionalities: capturing some network traffic that is flowing through your machine now and analyzing captured network traffic by opening a stored capture file.
+
+2)Generating and capturing RADIUS Traffic, analyzing and viewing it in Wireshark. Knowing what the RADIUS Architecture consists of and decrypting the encrypted password using Wireshark.
+
+3)Knowing the basics about HTTP, and knowing the difference between Wireshark’s Filters. Connecting to an HTTP Server and initiate a Basic HTTP Authentication and capturing its Traffic on Wireshark.
+
+4)Initiating an HTTP Form-based authentication, capturing it in Wireshark and analyzing it so you can see the username and password clearly. Also Capturing DNS Traffic.
+
+5)Knowing how Telnet works, starting a Telnet Session with a remote Device using Powershell, capturing its traffic in Wireshark and analyzing it from the Security perspective.
+
+6)Opening a SSH Session, capturing the traffic and comparing it with the Telnet's. Capturing traffic based on the host and how to see different conversations that have happened in a certain Capture.
+
+7)Generating and capturing HTTPS Traffic, also decrypting captured HTTPS Traffic in Wireshark.
