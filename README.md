@@ -24,3 +24,14 @@ Wireshark Lab: Network Security Analysis
 •Opening a SSH Session, captured the traffic and compared it with Telnet’s.
 
 •Generated and captured HTTPS Traffic, also decrypted captured HTTPS Traffic in Wireshark.
+
+
+HTB: Network Traffic Analysis:
+
+1)Network traffic analysis principles
+
+2)Tcpdump fundamentals
+
+3)Working with Wireshark
+
+4)Wireshark filters
